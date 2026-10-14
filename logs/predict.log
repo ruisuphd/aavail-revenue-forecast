@@ -1,0 +1,2 @@
+{"country": "all", "date": "2019-06-01", "y_pred": 173372.72, "model": "baseline", "version": "1.0", "kind": "predict", "test": false, "ts": "2026-10-14T08:37:19Z"}
+{"country": "united_kingdom", "date": "2019-06-01", "y_pred": 152898.38, "model": "baseline", "version": "1.0", "kind": "predict", "test": false, "ts": "2026-10-14T08:37:19Z"}

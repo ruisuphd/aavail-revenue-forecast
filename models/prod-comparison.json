@@ -1,0 +1,54 @@
+{
+  "models": [
+    {
+      "country": "all",
+      "model": "baseline",
+      "scores": {
+        "baseline": {
+          "rmse": 27609.2,
+          "mae": 23216.8
+        },
+        "ridge": {
+          "rmse": 27777.41,
+          "mae": 22767.99
+        },
+        "random_forest": {
+          "rmse": 61576.94,
+          "mae": 54613.06
+        }
+      },
+      "holdout_rows": 144,
+      "holdout_start": "2019-02-09",
+      "holdout_end": "2019-07-02",
+      "labeled_rows": 575,
+      "learned_model": "ridge",
+      "ridge_alpha": 5623.41,
+      "version": "1.0"
+    },
+    {
+      "country": "united_kingdom",
+      "model": "baseline",
+      "scores": {
+        "baseline": {
+          "rmse": 22863.16,
+          "mae": 17586.41
+        },
+        "ridge": {
+          "rmse": 23187.17,
+          "mae": 18673.65
+        },
+        "random_forest": {
+          "rmse": 63015.71,
+          "mae": 53301.79
+        }
+      },
+      "holdout_rows": 144,
+      "holdout_start": "2019-02-09",
+      "holdout_end": "2019-07-02",
+      "labeled_rows": 575,
+      "learned_model": "ridge",
+      "ridge_alpha": 2154.43,
+      "version": "1.0"
+    }
+  ]
+}

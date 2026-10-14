@@ -1,0 +1,6 @@
+.git
+data
+agent-tools
+**/__pycache__
+.venv
+*.pyc

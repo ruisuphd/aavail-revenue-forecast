@@ -1,0 +1,2 @@
+{"country": "all", "model": "baseline", "rmse": 27609.2, "baseline_rmse": 27609.2, "version": "1.0", "kind": "train", "test": false, "ts": "2026-10-14T08:35:21Z"}
+{"country": "united_kingdom", "model": "baseline", "rmse": 22863.16, "baseline_rmse": 22863.16, "version": "1.0", "kind": "train", "test": false, "ts": "2026-10-14T08:35:23Z"}
